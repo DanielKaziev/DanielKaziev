@@ -5,8 +5,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielKaziev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielKaziev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielKaziev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&order=2" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielKaziev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=react&locale=en&hide_border=true&order=1&custom_title=Stats" height="175" alt="stats graph"  />
 </div>
 
 ###
